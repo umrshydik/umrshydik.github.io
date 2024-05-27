@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.caliana_citizen",
+      "sha256_cert_fingerprints":
+      ["7F:9A:D9:8B:6D:4C:8F:18:E3:72:CA:EA:30:4F:51:B9:9B:B7:37:2E:8D:5C:B4:85:6F:02:9F:FE:B1:7A:6F:F8"]
+    }
+  }]
