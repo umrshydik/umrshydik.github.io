@@ -5071,6 +5071,10 @@ a img {
         width: 18%
     }
 
+    .images-mobile-right img{
+        float: right;
+    }
+
     .images-right img {
         float: right
     }
@@ -5083,6 +5087,10 @@ a img {
     .images-mobile-left {
         float: left;
         width: 18%
+    }
+
+    .images-mobile-left img{
+        float: left;
     }
 
     .images-left img {
